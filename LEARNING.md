@@ -42,7 +42,7 @@ The phase estimates currently sum to about 1,113 hours. The repository also cont
 |------|--------|------|------|
 | 2026-08-30 | 00/01 Development Environment | Not recorded | Beginner preflight passed; Python 3.12 environment created with uv; NumPy, PyTorch and Apple MPS verified; Hello World run in Python, TypeScript, Rust and Julia. |
 | 2026-08-30 | 00/02 Git & Collaboration | Not recorded | Practical work completed: status, diff, staging, commits, branch, merge, fork, clone, origin/upstream, my-progress push, checkpoint .gitignore verification and lesson-history review. |
-| 2026-08-30 | 00/03 GPU Setup & Cloud | Passed (4/4 guided checks) | Apple M1 Pro MPS verified. LLocal 2000x2000 benchmark repeated: MPS was 2.81-3.91x faster than CPU. Google Colab tested from iPad: Tesla T4, CUDA available, 15.6 GB VRAM, GPU 0.0063 s. Learned MPS vs CUDA, synchronization, unified memory, fp16 and Q4. |
+| 2026-08-30 | 00/03 GPU Setup & Cloud | Passed (4/4 guided checks) | Apple M1 Pro MPS verified. Local 2000x2000 benchmark repeated: MPS was 2.81-3.91x faster than CPU. Google Colab tested from iPad: Tesla T4, CUDA available, 15.6 GB VRAM, GPU 0.0063 s. Learned MPS vs CUDA, synchronization, unified memory, fp16 and Q4. |
 
 ## Review queue
 - 00/01 and 00/02: post-lesson quiz evidence is still pending; practical exercises are complete.
